@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MyClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyClass/1.0.0": {
+      "type": "project",
+      "path": "MyClass/MyClass.csproj",
+      "msbuildProject": "MyClass/MyClass.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MyClass >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/antoine/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/antoine/WebstormProjects/projet dot net/projet dot net.csproj",
+      "projectName": "projet dot net",
+      "projectPath": "/home/antoine/WebstormProjects/projet dot net/projet dot net.csproj",
+      "packagesPath": "/home/antoine/.nuget/packages/",
+      "outputPath": "/home/antoine/WebstormProjects/projet dot net/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/antoine/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/antoine/WebstormProjects/projet dot net/MyClass/MyClass.csproj": {
+              "projectPath": "/home/antoine/WebstormProjects/projet dot net/MyClass/MyClass.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

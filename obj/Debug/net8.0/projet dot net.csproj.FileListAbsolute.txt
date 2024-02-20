@@ -1,0 +1,5 @@
+/home/antoine/WebstormProjects/projet dot net/obj/Debug/net8.0/projet dot net.csproj.AssemblyReference.cache
+/home/antoine/WebstormProjects/projet dot net/obj/Debug/net8.0/projet dot net.GeneratedMSBuildEditorConfig.editorconfig
+/home/antoine/WebstormProjects/projet dot net/obj/Debug/net8.0/projet dot net.AssemblyInfoInputs.cache
+/home/antoine/WebstormProjects/projet dot net/obj/Debug/net8.0/projet dot net.AssemblyInfo.cs
+/home/antoine/WebstormProjects/projet dot net/obj/Debug/net8.0/projet dot net.csproj.CoreCompileInputs.cache

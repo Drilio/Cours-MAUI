@@ -1,0 +1,11 @@
+/home/antoine/WebstormProjects/projet dot net/MyClass/bin/Debug/net8.0/MyClass.deps.json
+/home/antoine/WebstormProjects/projet dot net/MyClass/bin/Debug/net8.0/MyClass.dll
+/home/antoine/WebstormProjects/projet dot net/MyClass/bin/Debug/net8.0/MyClass.pdb
+/home/antoine/WebstormProjects/projet dot net/MyClass/obj/Debug/net8.0/MyClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/antoine/WebstormProjects/projet dot net/MyClass/obj/Debug/net8.0/MyClass.AssemblyInfoInputs.cache
+/home/antoine/WebstormProjects/projet dot net/MyClass/obj/Debug/net8.0/MyClass.AssemblyInfo.cs
+/home/antoine/WebstormProjects/projet dot net/MyClass/obj/Debug/net8.0/MyClass.csproj.CoreCompileInputs.cache
+/home/antoine/WebstormProjects/projet dot net/MyClass/obj/Debug/net8.0/MyClass.dll
+/home/antoine/WebstormProjects/projet dot net/MyClass/obj/Debug/net8.0/refint/MyClass.dll
+/home/antoine/WebstormProjects/projet dot net/MyClass/obj/Debug/net8.0/MyClass.pdb
+/home/antoine/WebstormProjects/projet dot net/MyClass/obj/Debug/net8.0/ref/MyClass.dll
